@@ -20,9 +20,9 @@ WEB FE MENTORING
 
 ### 👨‍💻 멘토&멘티
 
-| [<img src="https://github.com/pedro1798.png" width="100px">](https://github.com/pedro1798) | [<img src="https://github.com/abrightkite.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/pyojihwan.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/bokoo14.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/minsoo0361.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/JEPyo.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/junhui0.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/dren1210.png" width="100px">](https://github.com/dren1210)
-| :----: | :----: | :----: |:----:|:----:|:----:|:----:|:----:|
-| [박상준](https://github.com/pedro1798) | [박희연](https://github.com/abrightkite) | [표지환]() | [박보경]() | [김민수]() | [표준억]() | [조준희]() | [이인](https://github.com/dren1210)
+| [<img src="https://github.com/pedro1798.png" width="100px">](https://github.com/pedro1798) | [<img src="https://github.com/abrightkite.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/pyojihwan.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/bokoo14.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/minsoo0361.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/JEPyo.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/junhui0.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/dren1210.png" width="100px">](https://github.com/dren1210) | [<img src="https://github.com/choimyungbin.png" width="100px">](https://github.com/choimyungbin)
+| :----: | :----: | :----: |:----:|:----:|:----:|:----:|:----:|:----:|
+| [박상준](https://github.com/pedro1798) | [박희연](https://github.com/abrightkite) | [표지환]() | [박보경]() | [김민수]() | [표준억]() | [조준희]() | [이인](https://github.com/dren1210) | [최명빈](https://github.com/choimyungbin)
 
 ## ⏰ 모임시간
 
